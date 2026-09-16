@@ -8,7 +8,7 @@
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/YOUR_ORGANIZATION/YOUR_REPOSITORY.git
+git clone https://github.com/CsyeInfoLab/CsyeInfoLab.git
 ```
 
 Replace the URL with the repository link.
