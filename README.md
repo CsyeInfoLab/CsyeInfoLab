@@ -1,5 +1,5 @@
 
-# CSYE 6200 - Java Practice
+# CSYE 6200
 
 ## How to Clone and Run the Code
 
