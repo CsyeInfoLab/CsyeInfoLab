@@ -1,8 +1,8 @@
-package edu.neu.csye6200.test;
+package edu.neu.csye6200.demo;
 
-public class Test {
+public class Demo {
 
     public static void sayHello() {
-        System.out.println("Hello from Test class");
+        System.out.println("Hello from Demo class");
     }
 }
