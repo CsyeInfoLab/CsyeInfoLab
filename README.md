@@ -18,7 +18,7 @@ Replace the URL with the repository link.
 Navigate to the cloned repository:
 
 ```bash
-cd YOUR_REPOSITORY
+cd CsyeInfoLab
 ```
 
 Open the project in IntelliJ IDEA or VS Code.
