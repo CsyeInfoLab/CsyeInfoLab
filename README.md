@@ -11,8 +11,6 @@ Open your terminal and run:
 git clone https://github.com/CsyeInfoLab/CsyeInfoLab.git
 ```
 
-Replace the URL with the repository link.
-
 ### 2. Open the Project
 
 Navigate to the cloned repository:
@@ -21,7 +19,7 @@ Navigate to the cloned repository:
 cd CsyeInfoLab
 ```
 
-Open the project in IntelliJ IDEA or VS Code.
+Open the project in IntelliJ IDEA or any IDE.
 
 ### 3. Run the Java Program
 
